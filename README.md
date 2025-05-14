@@ -18,5 +18,6 @@
 <br>
 <br>
 
-<img src="https://github.com/viniciuscruz11/Nike/blob/main/img/TENIS%20BLUE.png?raw=true">
-<img src="https://github.com/viniciuscruz11/Nike/blob/main/img/TENIS%20PINK.png?raw=true">
+<img src="https://github.com/viniciuscruz11/Nike/blob/main/img/TENIS%20BLUE.png?raw=true" alt="tenis-azul">
+<img src="https://raw.githubusercontent.com/viniciuscruz11/Nike/refs/heads/main/img/TENIS%20PINK.png" alt="tenis-rosa">
+<img src="https://github.com/viniciuscruz11/Nike/blob/main/img/TENIS%20GREEN.png?raw=true" alt="tenis-verde">
