@@ -45,6 +45,8 @@ body::after {
 /* class = . */
 .logo {
     width: 80px;
+    position: relative;
+    z-index: 1;
     /* largura */
 }
 
@@ -112,6 +114,7 @@ p {
     position: relative;
     display: flex;
     gap: 20px;
+    padding-top: 20px;
 }
 
 .botoes {
@@ -135,4 +138,12 @@ p {
 
 .rosa {
     background: #ff9eb5;
+}
+
+.efeito-cursor {
+    transition: transform 0.4s ease-in-out;
+}
+
+.efeito-cursor:hover {
+    transform: translateY(-10px);
 }
